@@ -1,5 +1,4 @@
-**RBE550 - Wildfire**
-
+**Table of Contents**
 <!-- TOC -->
 
 - [Introduction](#introduction)
